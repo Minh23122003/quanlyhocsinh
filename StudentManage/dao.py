@@ -39,7 +39,7 @@ def get_student():
 
 
 def get_student_by_name(name):
-    return Student.query.filter(Student.name.contains(name.lower())).all()
+    return Student.query.filter(Student.name.icontains(name)).all()
 
 
 def get_student_by_id(id):
