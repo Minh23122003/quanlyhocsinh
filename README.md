@@ -1,8 +1,10 @@
 # quanlyhocsinh
-web quản lý học sinh bằng python flask, mysql server, javascript với các chức năng chính: thêm học sinh, tìm kiếm học sinh, tạo danh sách lớp, điều chỉnh lớp, nhập điểm học sinh, xuất điểm theo lớp, thống kê theo môn học
+Student management website by using Python-flask, Mysql server, javascript
 
-Cách sử dụng:
--Git clone project về máy
--Mở project, vào file init.py sửa thông tin database
--Chạy file models.py
--Chạy file index.py và truy cập vào link để sử dụng
+The steps run the :
+-Cloning the project
+-Openning the project
+-Reinstalling the libraries: pip install -r requirements.txt in terminal(command prompt)
+-Checking database in models.py and creating an empty database
+-Run models.py
+-Run index.py and testing
