@@ -1,5 +1,5 @@
 # quanlyhocsinh
-Student management website by using Python-flask, Mysql server, javascript
+Student management website by using Python-flask, Mysql, javascript
 
 The steps run the :
 -Cloning the project
